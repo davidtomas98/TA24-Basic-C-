@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\bin\Debug\net7.0\ExerciciVariables.exe
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\bin\Debug\net7.0\ExerciciVariables.deps.json
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\bin\Debug\net7.0\ExerciciVariables.runtimeconfig.json
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\bin\Debug\net7.0\ExerciciVariables.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\bin\Debug\net7.0\ExerciciVariables.pdb
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\refint\ExerciciVariables.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.pdb
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ExerciciVariables.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M1-Variables\ExerciciVariables\ExerciciVariables\obj\Debug\net7.0\ref\ExerciciVariables.dll

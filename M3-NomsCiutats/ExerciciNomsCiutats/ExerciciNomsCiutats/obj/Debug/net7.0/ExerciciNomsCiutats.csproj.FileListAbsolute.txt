@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\bin\Debug\net7.0\ExerciciNomsCiutats.exe
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\bin\Debug\net7.0\ExerciciNomsCiutats.deps.json
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\bin\Debug\net7.0\ExerciciNomsCiutats.runtimeconfig.json
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\bin\Debug\net7.0\ExerciciNomsCiutats.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\bin\Debug\net7.0\ExerciciNomsCiutats.pdb
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\refint\ExerciciNomsCiutats.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.pdb
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ExerciciNomsCiutats.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M3-NomsCiutats\ExerciciNomsCiutats\ExerciciNomsCiutats\obj\Debug\net7.0\ref\ExerciciNomsCiutats.dll

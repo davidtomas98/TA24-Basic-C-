@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\net7.0\ExerciciRestaurant.exe
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\net7.0\ExerciciRestaurant.deps.json
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\net7.0\ExerciciRestaurant.runtimeconfig.json
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\net7.0\ExerciciRestaurant.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\net7.0\ExerciciRestaurant.pdb
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\refint\ExerciciRestaurant.dll
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.pdb
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ExerciciRestaurant.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA24\TA24-Basic-C-\M4-Restaurant\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\net7.0\ref\ExerciciRestaurant.dll
