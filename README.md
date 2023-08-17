@@ -8,7 +8,7 @@ Este repositorio contiene ejemplos prácticos desarrollados en C# que cubren una
 
 ## 📂 Estructura del Repositorio
 
-### 1. ExerciciVariables
+### 📝 Ejercicio 1: ExerciciVariables
 
 Ejemplo que aborda conceptos básicos como variables, estructuras de control y operaciones.
 
@@ -16,7 +16,7 @@ Ejemplo que aborda conceptos básicos como variables, estructuras de control y o
 - Practica la lógica de programación con estructuras de control.
 - Desarrolla ejercicios simples para fortalecer tus habilidades.
 
-### 2. LletresRepetides
+### 🔤 Ejercicio 2: LletresRepetides
 
 Ejemplo que demuestra cómo detectar letras repetidas en una cadena de texto.
 
@@ -24,7 +24,7 @@ Ejemplo que demuestra cómo detectar letras repetidas en una cadena de texto.
 - Identifica letras repetidas en una cadena.
 - Practica el uso de bucles y estructuras de datos.
 
-### 3. ExerciciNomsCiutats
+### 🏙️ Ejercicio 3: ExerciciNomsCiutats
 
 Ejemplo sobre manipulación de matrices y listas en la gestión de nombres de ciudades.
 
@@ -32,7 +32,7 @@ Ejemplo sobre manipulación de matrices y listas en la gestión de nombres de ci
 - Manipula nombres de ciudades y realiza transformaciones en ellos.
 - Practica bucles y estructuras de control.
 
-### 4. RestaurantApp
+### 🍔 Ejercicio 4: RestaurantApp
 
 Ejemplo de un sistema simple de pedidos en un restaurante utilizando diccionarios y bucles.
 
